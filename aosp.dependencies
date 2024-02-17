@@ -44,15 +44,15 @@
         "target_path": "kernel/samsung/gta4xl"
     },
     {
-        "repository": "android_vendor_samsung_gta4xl-common",
+        "repository": "proprietary_vendor_samsung_gta4xl-common",
         "target_path": "vendor/samsung/gta4xl-common"
     },
     {
-        "repository": "android_vendor_samsung_gta4xl",
+        "repository": "proprietary_vendor_samsung_gta4xl",
         "target_path": "vendor/samsung/gta4xl"
     },
     {
-        "repository": "android_vendor_samsung_gta4xlwifi",
+        "repository": "proprietary_vendor_samsung_gta4xlwifi",
         "target_path": "vendor/samsung/gta4xlwifi"
     },
     {
